@@ -1,5 +1,5 @@
 # # 💫 About Me:
-- 👋 Hi, I’m @nidkulkarni<br>- I have interned at ISRO, IIT-M and IIIT-H.<br>- 👀 I'm well equipped with Java,Python, React js, node js, angular js, javascript, html, php, css, tailwind, bootstrap,MongoDB and MySQL.<br>- 🌱 I’m currently into creating full stack websites.<br>- 💞️ I’m looking to collaborate on any project related to web development.<br>- 📫 You can reach me on my LinkedIn profile: www.linkedin.com/in/kulkarni-nidhi
+- 👋 Hi, I’m @nidkulkarni<br>- I have interned at ISRO, IIT-M and IIIT-H.<br>- 👀 I'm well equipped with Java,Python, React js, node js, angular js, javascript, html, php, css, tailwind, bootstrap,MongoDB and MySQL.<br>- 🌱 I’m currently into creating full stack websites.<br>- 💞️ I’m looking to collaborate on any project related to web development.<br>- 📫 You can reach me on my LinkedIn profile: www.linkedin.com/in/kulkarni-nidhi <br>-I dont contribute a lot on github but I will make sure to do so from now on.
 
 
 ## 🌐 Socials:
